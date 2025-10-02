@@ -23,10 +23,10 @@ I am seeking **internship opportunities** in **Cybersecurity, Data Analysis, or 
 
 ## Projects
 - [Baby Monitoring App](https://github.com/h13062/Capstone_4901_Fall_2022)  
-  *Cross-platform mobile app (iOS/Android) for monitoring baby activity. Built frontend with React Native and Expo; collaborated on backend hosted on Azure.*  
+  *Cross-platform mobile app (iOS/Android) for monitoring baby activity. Built frontend with React Native and Expo; collaborated on backend using C# hosted on Azure.*  
 
-- [Hack The Box Writeups: Screencrack](https://github.com/NPNG22/htb-screencrack-solution)  
-  *Writeups documenting lessons learned from HTB challenges. Repo is private to comply with HTB’s policy.*  
+- [Hack The Box Write-ups: Screencrack](https://github.com/NPNG22/htb-screencrack-solution)  
+  *Write-ups documenting lessons learned from HTB challenges. Repo is private to comply with HTB’s policy.*  
 
 - [Public/Private Key Application](https://github.com/NPNG22/Project_1)  
   *Key generator and validator for handling asymmetric encryption keys.*  
@@ -35,10 +35,14 @@ I am seeking **internship opportunities** in **Cybersecurity, Data Analysis, or 
   *Implementation and testing of a simple JSON Web Key Set (JWKS) server.*  
 
 - [Basic HTML Website](https://github.com/NPNG22/3420website)  
-  *Implementation of a simple static website using HTML and CSS.*  
+  *Static website created with HTML and CSS.*  
+
+- [Restaurant Website](https://github.com/h13062/project3444)  
+  *Interactive restaurant website with online ordering. Built frontend with React.js; backend with C#.*  
 
 ---
 
 ## Contact
+- GitHub: [github.com/NPNG22](https://github.com/NPNG22)  
 - Handshake: [Handshake profile](https://unt.joinhandshake.com/profiles/xk74sx)  
 - Email: DatNguyen2@my.unt.edu  
